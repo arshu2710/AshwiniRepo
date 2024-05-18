@@ -38,7 +38,7 @@ import com.comcat.crm.objectrepositoryutility.OrganizationInformationPage;
 import com.comcat.crm.objectrepositoryutility.OrganizationsPage;
 import com.coomcast.crm.basetest.BaseClass;
 @Listeners( com.comcat.crm.genric.listnerutility.ListImpClass.class)
-public class CreateOrganizationTestAll extends BaseClass {
+public class CreateOrganizationTestAll extends BaseClass {//23
 
 	@Test
 	public void createOrganiTest() throws EncryptedDocumentException, IOException {
