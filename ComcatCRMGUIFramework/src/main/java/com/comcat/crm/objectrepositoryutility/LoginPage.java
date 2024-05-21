@@ -60,5 +60,6 @@ public class LoginPage {
 			passwordEdt.sendKeys(password);
 			loginBtn.click();
 		}
+		//1233456
 }
 	  
